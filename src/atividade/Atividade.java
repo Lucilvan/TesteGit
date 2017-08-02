@@ -27,6 +27,7 @@ public class Atividade {
                     break;
             }
         }while(opcao!=0 || ((qtdInteiro+qtdMeia)==30));
+                }while(opcao!=0 || ((qtdInteiro+qtdMeia)==30));}while(opcao!=0 || ((qtdInteiro+qtdMeia)==30));}while(opcao!=0 || ((qtdInteiro+qtdMeia)==30));}while(opcao!=0 || ((qtdInteiro+qtdMeia)==30));
     }
     
 }
