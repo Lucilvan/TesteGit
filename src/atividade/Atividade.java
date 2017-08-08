@@ -8,9 +8,7 @@ public class Atividade {
         int opcao, qtdMeia = 0, qtdInteiro = 0;
         int teste; int teste1; int teste2; int teste3;   
         do{
-            opcao = Integer.parseInt(JOptionPane.showInputDialog(":::Cinema Senac:::\n"
-                    + "Qual o tipo de bilhete deseja\n"
-                    + "1 - Inteira \n 2 - Meio \n 0 - Sair \n Escolha uma das opçoes acima:"));
+            
             switch(opcao){
                 case 1:
                     qtdInteiro++;
