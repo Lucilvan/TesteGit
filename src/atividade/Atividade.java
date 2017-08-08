@@ -6,7 +6,7 @@ public class Atividade {
             
     public static void main(String[] args) {
         int opcao, qtdMeia = 0, qtdInteiro = 0;
-                
+        int teste;   
         do{
             opcao = Integer.parseInt(JOptionPane.showInputDialog(":::Cinema Senac:::\n"
                     + "Qual o tipo de bilhete deseja\n"
