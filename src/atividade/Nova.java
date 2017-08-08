@@ -5,10 +5,13 @@
  */
 package atividade;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author i2284
  */
 public class Nova {
-    
+    //dfçndfçln
+    private String nome;
 }
