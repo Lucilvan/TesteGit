@@ -3,7 +3,7 @@ package atividade;
 import javax.swing.JOptionPane;
 
 public class Atividade {
-            
+            //sdgs
     public static void main(String[] args) {
         int opcao, qtdMeia = 0, qtdInteiro = 0;
         int teste; int teste1; int teste2; int teste3;   
